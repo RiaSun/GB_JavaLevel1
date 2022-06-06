@@ -1,7 +1,7 @@
 package ru.geekbrains.lessonX;
 
 
-public class mainClass {
+public class MainClass {
 
     public static void main(String[] args) {
 
